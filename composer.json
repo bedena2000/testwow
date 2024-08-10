@@ -1,0 +1,15 @@
+{
+    "name": "docto/php_learning",
+    "description": "Simple application",
+    "type": "project",
+    "require": {
+        "monolog/monolog": "^3.7",
+        "guzzlehttp/guzzle": "^7.9"
+    },
+    "authors": [
+        {
+            "name": "bedena",
+            "email": "bedena2000@gmail.com"
+        }
+    ]
+}
